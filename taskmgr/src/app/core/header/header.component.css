@@ -1,0 +1,6 @@
+mat-toolbar {
+  height: 50px;
+  width: 100%;
+  font-size: 14px;
+  background: red;
+}
